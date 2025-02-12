@@ -56,10 +56,12 @@ gcc -Wall -Werror -std=gnu99 shell.c -o shell
 ```
 
 ## Exécution
+
 Une fois compilé, lancez le shell avec la commande suivante :
 
-```bash 
-./shell
+```bash  
+ ./shell
+
 ```
 
 ## Utilisation
@@ -103,4 +105,9 @@ Ce fichier contient l'implémentation principale du shell, incluant :
   Le shell ignore le signal `SIGINT` dans son propre contexte, permettant aux programmes lancés de recevoir et gérer ce signal normalement.
 
 ## Licence
+
 Ce projet est sous licence MIT. Consultez le fichier [LICENSE](https://github.com/ImEtienne/mini-shell?tab=MIT-1-ov-file#) pour plus de détails.
+
+## Capture d'écran
+
+![image](https://github.com/ImEtienne/mini-shell/issues/3)
