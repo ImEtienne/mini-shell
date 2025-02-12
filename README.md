@@ -76,12 +76,10 @@ Une fois compilé, lancez le shell avec la commande suivante :
   La sortie standard peut être redirigée vers un fichier grâce aux mécanismes implémentés.
 
 - **Utilisation des Pipes :**  
-  Une version simplifiée de la chaîne de commandes (pipes) est disponible pour enchaîner l’exécution 
-   de plusieurs commandes.
+  Une version simplifiée de la chaîne de commandes (pipes) est disponible pour enchaîner l’exécution   de plusieurs commandes.
 
 - **Gestion du Signal SIGINT :**  
-  Le shell ignore le signal `SIGINT` pour éviter une interruption intempestive, tandis que les 
-   programmes lancés reçoivent ce signal et le gèrent normalement.
+  Le shell ignore le signal `SIGINT` pour éviter une interruption intempestive, tandis que les   programmes lancés reçoivent ce signal et le gèrent normalement.
 
 ## Organisation du Code
 
