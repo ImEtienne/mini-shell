@@ -108,4 +108,4 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](https://github.co
 
 ## Capture d'écran
 
-![image](https://github.com/user-attachments/assets/c4c0a242-9382-4b16-8cf2-58ffbbbdbed9)
+![image](https://github.com/user-attachments/assets/c4c0a242-9382-4b16-8cf2-58ffbbbdbed9){.btn .btn-info}
