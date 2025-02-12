@@ -104,8 +104,8 @@ Ce fichier contient l'implémentation principale du shell, incluant :
 
 ## Licence
 
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](https://github.com/ImEtienne/mini-shell?tab=MIT-1-ov-file#) pour plus de détails.
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE Info](https://github.com/ImEtienne/mini-shell?tab=MIT-1-ov-file#)(#){.btn .btn-info} pour plus de détails.
 
 ## Capture d'écran
 
-![image](https://github.com/user-attachments/assets/c4c0a242-9382-4b16-8cf2-58ffbbbdbed9){.btn .btn-info}
+![image](https://github.com/user-attachments/assets/c4c0a242-9382-4b16-8cf2-58ffbbbdbed9)
