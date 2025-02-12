@@ -103,4 +103,4 @@ Ce fichier contient l'implémentation principale du shell, incluant :
   Le shell ignore le signal `SIGINT` dans son propre contexte, permettant aux programmes lancés de recevoir et gérer ce signal normalement.
 
 ## Licence
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](https://https://github.com/ImEtienne/) pour plus de détails.
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](https://github.com/ImEtienne/mini-shell?tab=MIT-1-ov-file#) pour plus de détails.
